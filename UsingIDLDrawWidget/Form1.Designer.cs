@@ -520,7 +520,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "图像处理Demo";
+            this.Text = "DEMO";
             this.MaximumSizeChanged += new System.EventHandler(this.Form1_ResizeEnd);
             this.MinimumSizeChanged += new System.EventHandler(this.Form1_ResizeEnd);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);

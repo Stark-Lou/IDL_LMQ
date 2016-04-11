@@ -376,8 +376,7 @@ namespace UsingIDLDrawWidget
 
         private void 关于ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("   C#下调用IDL的IDLDrawWidget组件示例程序！\n"
-                + "   作者：DYQ", "关于本程序");
+            MessageBox.Show("   C#下调用IDL的IDLDrawWidget组件示例程序");
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
